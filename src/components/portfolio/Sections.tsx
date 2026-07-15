@@ -127,7 +127,7 @@ export function Projects() {
                   0{i + 1}
                 </span>
                 <a
-                  href={CONTACT.github}
+                  href={p.repo} 
                   target="_blank"
                   rel="noreferrer"
                   aria-label="View on GitHub"

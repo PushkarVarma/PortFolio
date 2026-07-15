@@ -68,6 +68,7 @@ export const PROJECTS = [
       "Personalized recommendations ranked by cosine similarity",
       "Secure JWT authentication with role-based access control",
     ],
+    repo : "https://github.com/PushkarVarma/InternMatch-AI",
   },
   {
     title: "HealthCare API",
@@ -79,6 +80,7 @@ export const PROJECTS = [
       "Role-based access control for staff and patients",
       "User-specific secure access to protected resources",
     ],
+    repo : "https://github.com/PushkarVarma/healthcare-api",
   },
   {
     title: "Weather Forecast Application",
@@ -90,6 +92,7 @@ export const PROJECTS = [
       "Location-based search with instant results",
       "Graceful error handling and fully responsive UI",
     ],
+    repo : "https://github.com/PushkarVarma/Weather_App" ,
   },
 ];
 
